@@ -1,0 +1,25 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1702998029448,159,http://government.ru/news/,200,OK,Thread Group 1-1,text,true,,93343,368,1,1,http://government.ru/news/,89,0,48
+1702998029648,141,http://government.ru/news/,200,OK,Thread Group 1-2,text,true,,93343,368,2,2,http://government.ru/news/,69,0,37
+1702998029896,140,http://government.ru/news/,200,OK,Thread Group 1-3,text,true,,93343,368,3,3,http://government.ru/news/,69,0,35
+1702998030050,72,http://government.ru/meetings/,200,OK,Thread Group 1-2,text,true,,93095,372,3,3,http://government.ru/meetings/,34,0,0
+1702998030144,384,http://government.ru/news/,200,OK,Thread Group 1-4,text,true,,93343,368,4,4,http://government.ru/news/,313,0,32
+1702998030460,71,http://government.ru/meetings/,200,OK,Thread Group 1-3,text,true,,93095,372,4,4,http://government.ru/meetings/,33,0,0
+1702998032212,2096,http://government.ru/meetings/,200,OK,Thread Group 1-1,text,true,,93095,372,4,4,http://government.ru/meetings/,1983,0,0
+1702998033024,1285,http://government.ru/meetings/,200,OK,Thread Group 1-4,text,true,,93095,372,4,4,http://government.ru/meetings/,1171,0,0
+1702998034458,127,http://government.ru/docs/,200,OK,Thread Group 1-3,text,true,,95959,368,4,4,http://government.ru/docs/,33,0,0
+1702998036081,99,http://government.ru/orders/,200,OK,Thread Group 1-3,text,true,,52940,370,4,4,http://government.ru/orders/,35,0,0
+1702998037141,145,http://government.ru/docs/,200,OK,Thread Group 1-2,text,true,,95959,368,4,4,http://government.ru/docs/,48,0,0
+1702998036531,1010,http://government.ru/docs/,200,OK,Thread Group 1-4,text,true,,95959,368,4,4,http://government.ru/docs/,916,0,0
+1702998040168,1658,http://government.ru/orders/,200,OK,Thread Group 1-4,text,true,,52940,370,4,4,http://government.ru/orders/,1594,0,0
+1702998040818,1012,http://government.ru/orders/,200,OK,Thread Group 1-2,text,true,,52940,370,4,4,http://government.ru/orders/,946,0,0
+1702998041141,736,http://government.ru/docs/,200,OK,Thread Group 1-1,text,true,,95959,368,4,4,http://government.ru/docs/,624,0,0
+1702998039701,2412,http://government.ru/activities/,200,OK,Thread Group 1-3,text,true,,53357,374,4,4,http://government.ru/activities/,2346,0,0
+1702998029894,2849,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-3,,true,,388694,1852,4,4,null,2516,9371,35
+1702998044174,100,http://government.ru/orders/,200,OK,Thread Group 1-1,text,true,,52940,370,3,3,http://government.ru/orders/,37,0,0
+1702998044559,66,http://government.ru/activities/,200,OK,Thread Group 1-1,text,true,,53357,374,3,3,http://government.ru/activities/,33,0,0
+1702998029399,3157,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,388694,1852,3,3,null,2766,12069,48
+1702998044598,101,http://government.ru/activities/,200,OK,Thread Group 1-4,text,true,,53357,374,2,2,http://government.ru/activities/,38,0,0
+1702998030143,4438,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-4,,true,,388694,1852,2,2,null,4032,10119,32
+1702998044778,156,http://government.ru/activities/,200,OK,Thread Group 1-2,text,true,,53357,374,1,1,http://government.ru/activities/,89,0,0
+1702998029645,1526,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-2,,true,,388694,1852,1,1,null,1186,13764,37

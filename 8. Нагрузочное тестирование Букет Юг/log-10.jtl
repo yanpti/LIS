@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1702987399375,2627,HTTP Request,200,OK,Users 1-2,text,true,,206570,116,10,10,https://buket-ug.ru/,1865,0,1706
+1702987399692,2310,HTTP Request,200,OK,Users 1-6,text,true,,206570,116,10,10,https://buket-ug.ru/,1548,0,1392
+1702987399374,2639,HTTP Request,200,OK,Users 1-1,text,true,,206570,116,10,10,https://buket-ug.ru/,1865,0,1706
+1702987399979,2038,HTTP Request,200,OK,Users 1-9,text,true,,206570,116,10,10,https://buket-ug.ru/,1261,0,1102
+1702987399902,2129,HTTP Request,200,OK,Users 1-8,text,true,,206570,116,6,6,https://buket-ug.ru/,1338,0,1179
+1702987399493,2540,HTTP Request,200,OK,Users 1-4,text,true,,206570,116,6,6,https://buket-ug.ru/,1747,0,1588
+1702987399593,2455,HTTP Request,200,OK,Users 1-5,text,true,,206570,116,4,4,https://buket-ug.ru/,1647,0,1488
+1702987399793,2299,HTTP Request,200,OK,Users 1-7,text,true,,206570,116,3,3,https://buket-ug.ru/,1447,0,1288
+1702987400079,2023,HTTP Request,200,OK,Users 1-10,text,true,,206570,116,2,2,https://buket-ug.ru/,1166,0,1002
+1702987399393,2742,HTTP Request,200,OK,Users 1-3,text,true,,206570,116,1,1,https://buket-ug.ru/,1847,0,1709
